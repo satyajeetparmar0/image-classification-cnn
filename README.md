@@ -17,12 +17,13 @@ The models classify medical images into **Benign** and **Malignant** categories.
 ---
 
 ## 📌 Project Structure
-CNN/
-├── simple_cnn.ipynb # Simple CNN implementation
-├── vgg16_model.ipynb # VGG16-like model implementation
-├── requirements.txt # Dependencies
-├── dataset_info.txt # Dataset details
-└── README.md
+📁 CNN/
+├── 📓 simple_cnn.ipynb       # Simple CNN implementation
+├── 📓 vgg16_model.ipynb      # VGG16-like model implementation
+├── 📄 requirements.txt       # Project dependencies
+├── 📄 dataset_info.txt       # Dataset details and structure
+└── 📄 README.md              # Project overview and usage instructions
+
 
 ---
 
