@@ -1,0 +1,39 @@
+# Dataset Information: Breast Cancer Histopathological Database (BreakHis)
+
+## Description
+This dataset contains histopathological images of breast tumor tissue for **binary classification**:
+- **Benign**: Non-cancerous tumors
+- **Malignant**: Cancerous tumors
+
+## Folder Structure
+dataset/
+│
+├── Benign/
+│   ├── image_1.jpg
+│   ├── image_2.jpg
+│   └── ...
+│
+└── Malignant/
+    ├── image_1.jpg
+    ├── image_2.jpg
+    └── ...
+
+## Image Details
+- Original Size: 700x460 pixels
+- Magnification Factors: 40X, 100X, 200X, 400X
+- Format: .png
+- In this project:
+  - Images are resized to **224x224** for VGG16-like model
+  - Images are resized to **64x64** for Simple CNN
+
+## Dataset Source
+BreakHis: Breast Cancer Histopathological Database  
+Link: https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
+
+## Note
+- The dataset is NOT included in this repository due to size constraints.
+- To run the project:
+  - Download the dataset from the official site
+  - Upload it to your Google Drive
+  - Set the path in the code as:
+    `/content/drive/MyDrive/dataset_cancer_v1/classificacao_binaria/100X`
