@@ -1,5 +1,13 @@
 # 🧠 Image Classification using CNN and VGG16
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/satyajeetparmar0/image-classification-cnn/blob/main/simple_cnn.ipynb)
+
+> A deep learning project for **Medical Image Classification** using **CNN and VGG16-like architecture**.
+
+
 This project implements two deep learning models for image classification:
 - ✅ **Simple CNN**
 - ✅ **VGG16-like CNN architecture**
