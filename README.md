@@ -54,9 +54,10 @@ The models classify medical images into **Benign** and **Malignant** categories.
    pip install -r requirements.txt
    Open notebooks in Google Colab or Jupyter
 3. **Open notebooks in Colab or Jupyter**
-    -simple_cnn.ipynb
+       # Open the following notebooks:
+         # 1. simple_cnn.ipynb       - Basic CNN implementation
+         # 2. vgg16_model.ipynb      - VGG16-like model
 
-    -vgg16_model.ipynb
 
 📂 Dataset
 
