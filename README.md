@@ -22,26 +22,17 @@ This project implements **7 state-of-the-art CNN architectures** for binary medi
 
 ```
 CNN/
-├── 📊 Model Implementations
-│   ├── simple_cnn.ipynb          # Simple CNN implementation
-│   ├── vgg16_model.ipynb         # VGG16-like model
-│   ├── resnet.ipynb              # ResNet with residual blocks
-│   ├── densenet.ipynb            # DenseNet with dense connections
-│   ├── efficientnet.ipynb        # EfficientNet with MBConv
-│   ├── googlenet.ipynb           # GoogLeNet with Inception
-│   └── convnext.ipynb            # ConvNeXt modern architecture
-│
-├── 📈 Testing & Results
-│   ├── accuracy_results.py       # Complete accuracy comparison
-│   ├── test_individual_model.py  # Individual model testing
-│   ├── accuracy_results_template.json  # Results storage
-│   └── model_accuracy_comparison.ipynb # Comprehensive notebook
-│
-├── 📋 Documentation
-│   ├── README.md                 # This file
-│   ├── ACCURACY_TESTING_README.md # Testing guide
-│   ├── requirements.txt          # Dependencies
-│   └── dataset_info.txt          # Dataset details
+├── simple_cnn.ipynb
+├── vgg16_model.ipynb
+├── resnet.ipynb
+├── densenet.ipynb
+├── efficientnet.ipynb
+├── googlenet.ipynb
+├── convnext.ipynb
+├── README.md
+├── requirements.txt
+└── dataset_info.txt
+
 ```
 
 ---
@@ -226,12 +217,6 @@ Based on typical performance:
 3. Implement your changes
 4. Test thoroughly
 5. Submit a pull request
-
----
-
-## 📝 **License**
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
