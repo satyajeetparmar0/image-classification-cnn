@@ -1,5 +1,11 @@
 # 🧠 Comprehensive CNN Models for Medical Image Classification
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/satyajeetparmar0/image-classification-cnn/blob/main/simple_cnn.ipynb)
+
+
 This project implements **7 state-of-the-art CNN architectures** for binary medical image classification, specifically designed to classify cancer images into **Benign** and **Malignant** categories.
 
 ---
