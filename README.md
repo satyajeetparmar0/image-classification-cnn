@@ -45,12 +45,6 @@ CNN/
 - **Consistent code structure** across all models
 - **Binary classification** optimized for medical images
 
-### 📊 **Testing Framework**
-- **Automated accuracy comparison** across all models
-- **Comprehensive metrics** (accuracy, precision, recall, F1-score)
-- **Training time tracking** and performance analysis
-- **Results storage** in JSON and CSV formats
-
 ### 🔧 **Technical Excellence**
 - **Google Colab compatible** notebooks
 - **Reproducible results** with fixed random seeds
@@ -70,23 +64,9 @@ CNN/
 ---
 
 ## 🚀 **Quick Start**
-
-### **Option 1: Run Individual Models**
 ```bash
 # Open any model notebook in Google Colab
 # Example: simple_cnn.ipynb, vgg16_model.ipynb, etc.
-```
-
-### **Option 2: Complete Accuracy Comparison**
-```bash
-# Run comprehensive testing
-python accuracy_results.py
-```
-
-### **Option 3: Test Specific Model**
-```bash
-# Test individual model and update results
-python test_individual_model.py
 ```
 
 ---
@@ -204,8 +184,6 @@ Based on typical performance:
 4. **File Not Found**: Verify dataset path structure
 
 ### **Error Handling**
-- All scripts include comprehensive error handling
-- Failed models are logged with error messages
 - Partial results are saved when possible
 
 ---
