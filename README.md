@@ -183,9 +183,6 @@ Based on typical performance:
 3. **Low Accuracy**: Check dataset quality and preprocessing
 4. **File Not Found**: Verify dataset path structure
 
-### **Error Handling**
-- Partial results are saved when possible
-
 ---
 
 ## 🤝 **Contributing**
